@@ -86,8 +86,8 @@ var assigned = Enumerable.Range(1, 10)
 Console.WriteLine($"Задачи: №{assigned[0]} и №{assigned[1]}");
 
 
-int N = 4; 
-for (int i = 1; i <= N; i++) 
+int A = 4; 
+for (int i = 1; i <= A; i++) 
 {
     for (int j = 1; j <= i; j++) 
     {
